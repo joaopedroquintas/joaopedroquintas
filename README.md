@@ -1,4 +1,4 @@
-Olá! 👋
+### Olá! 👋
 
 Sou João Pedro Quintas, aluno do 4° ano de Engenharia Mecatrônica na Escola de Engenharia de São Carlos (USP) e Vice-Diretor
 do EESC Finance, o Clube de Mercado Financeiro do campus.
